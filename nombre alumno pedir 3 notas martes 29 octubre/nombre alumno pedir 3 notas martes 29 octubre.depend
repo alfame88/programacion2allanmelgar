@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1383086343 source:c:\users\menelio melgar\desktop\programacion actubre dic. 2013\nombre alumno pedir 3 notas martes 29 octubre\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+

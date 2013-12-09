@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1382999709 source:c:\users\menelio melgar\desktop\programacion actubre dic. 2013\programa ingresar num y despues preguntar ingre. otro numero\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
